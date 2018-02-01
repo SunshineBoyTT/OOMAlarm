@@ -71,7 +71,6 @@
 						<platform>windows</platform>
 						<platform>unix</platform>
 					</platforms>
-					 <!-- 打包的jar，以及maven依赖的jar放到这个目录里面 --> 
 					<repositoryName>lib</repositoryName>
 					<programs>
 						<program>
